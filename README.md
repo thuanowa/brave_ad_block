@@ -2,4 +2,4 @@
 
 - very personal ad block list
 - focus in minimal (no bloat website)
-- say no with sns
+- minimize sns
