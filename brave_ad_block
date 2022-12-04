@@ -1,31 +1,95 @@
-www.youtube.com##ytd-topbar-menu-button-renderer.style-default.ytd-masthead.style-scope:nth-of-type(2)
-www.youtube.com##ytd-toggle-button-renderer.style-text.force-icon-button.ytd-menu-renderer.style-scope > .ytd-toggle-button-renderer.style-scope.yt-simple-endpoint
-www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(4)
-www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
-www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(2)
-www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope:nth-of-type(2)
-www.youtube.com##yt-formatted-string.ytd-channel-about-metadata-renderer.style-scope:nth-of-type(3)
-www.youtube.com##span.ytd-video-meta-block.style-scope:nth-of-type(1)
-www.youtube.com##span.ytd-grid-video-renderer.style-scope:nth-of-type(1)
-www.youtube.com##div.ytd-topbar-logo-renderer.style-scope > .ytd-topbar-logo-renderer.style-scope
-www.youtube.com##.ytp-watch-later-icon
-www.youtube.com##.ytp-title-text
-www.youtube.com##.ytp-share-icon
-www.youtube.com###voice-search-button
-www.youtube.com###thumbnail-attribution
-www.youtube.com###subscriber-count
-www.youtube.com###sentiment
-www.youtube.com###right-column
-www.youtube.com###related
-www.youtube.com###owner-sub-count
-www.youtube.com###guide-links-secondary
-www.youtube.com###guide-links-primary
-www.youtube.com###dot
-www.youtube.com###country-code
-www.youtube.com###count > .ytd-video-primary-info-renderer.style-scope
-www.youtube.com###count
-www.youtube.com###copyright
-www.youtube.com###action-buttons
-www.youtube.com###copyright
+! 2022-11-09 https://feeder.co
+feeder.co##div.ad-feed-container > .ad.__78605 > .ad--chooser > .ember-view.__6d047
+feeder.co##.ad-container > .ad.__78605 > .ad--chooser > .ember-view.__6d047
 
-github.com##.octotree-promotion
+! 2022-11-10 https://www.wikiwand.com
+www.wikiwand.com##.desktop_header__IlHRl
+
+! 2022-11-11 https://www.nettruyenin.com
+www.nettruyenin.com##.scroll-to-fixed-fixed.chapter-nav
+
+! 2022-11-23 https://www.nettruyenon.com
+www.nettruyenon.com##[src="//u.ntcdntempv3.com/content/2022-11-23/638047952612608555.jpg"]
+
+! 2022-11-23 https://feeder.co
+feeder.co##.black-friday-banner.banner-notice.__0b3d9
+
+! 2022-11-23 https://www.nettruyenon.com
+www.nettruyenon.com##.scroll-to-fixed-fixed.chapter-nav
+
+! 2022-11-23 https://phimchilltv.net
+phimchilltv.net##.preload-banner > [href^="https://www.i9bet26.com/"]
+phimchilltv.net##.preload-smoke.preload-backdrop
+phimchilltv.net##.preload-banner
+
+! 2022-11-24 https://manhwatop.com
+||manhwatop.com/3.1.jpg$image
+manhwatop.com##.row.hidden-xs.share_content_socical
+manhwatop.com##.col-sm-4.col-md-4.sidebar-col
+manhwatop.com##div.row:nth-of-type(4)
+manhwatop.com##.site-footer
+manhwatop.com##.c-modal_item > a.btn-active-modal
+
+! 2022-11-25 https://truyenqqpro.com
+truyenqqpro.com##.left-banner
+
+! 2022-11-25 http://animevietsub.to
+animevietsub.to##.pc-catfixx
+||ci3.googleusercontent.com/mZI_lfpGW9NbuQ4qnbnfClQu3lVKccG067BGTYb6YVzaddILwDKSZ4Y_NIHXlkusgYOOI7ZicXMxk_XnnJEIxp3ovzOULO4RRywdmUNq7TPXkyB0-ZNY7xOHmjohwg=s0$image
+animevietsub.to##section.Wdgt:nth-of-type(2)
+animevietsub.to##center > [href="https://fb.com/233536333844133"]
+animevietsub.to###showChonLoc
+
+! 2022-11-25 https://motchill.tv
+motchill.tv###preload > div
+
+! 2022-11-26 https://www.nettruyentv.com
+www.nettruyentv.com##.scroll-to-fixed-fixed.chapter-nav
+www.nettruyentv.com##div.container > .comment
+www.nettruyentv.com##.footer
+www.nettruyentv.com##.comment-wrapper
+www.nettruyentv.com##.lazy-module.main-tab.nav-tabs.nav
+www.nettruyentv.com##.active.in.fade.tab-pane
+www.nettruyentv.com##.pull-right.hidden-xs.list-inline.nav-account
+www.nettruyentv.com##[href="#"] > .fa-comment.fa
+www.nettruyentv.com##.container > .Module-144.Module > .ModuleContent > .main-menu.navbar-nav.nav > li > [href="https://www.nettruyentv.com/tai-app"]
+www.nettruyentv.com##.container > .Module-144.Module > .ModuleContent > .main-menu.navbar-nav.nav > li > [href="https://www.facebook.com/groups/nettruyenn"]
+www.nettruyentv.com##.notify_block
+
+! 2022-11-29 https://mangagg.com
+mangagg.com##.sticky.with-border.c-sub-header-nav
+
+! 2022-11-30 https://www.nettruyentv.com
+www.nettruyentv.com##.text-center.page-chapter
+
+
+truyenqqpro.com##.ct_qc
+
+truyenqqpro.com###ad_info_top > .text_ads
+
+truyenqqpro.com###page_999
+
+www.facebook.com##.Module.Module-286 > .ModuleContent
+
+www.nettruyentv.com##.Module.Module-286 > .ModuleContent
+
+www.facebook.com##.Module.Module-286 > .ModuleContent
+
+www.facebook.com##section.Wdgt:nth-of-type(3)
+
+animevietsub.to##section.Wdgt:nth-of-type(3)
+
+www.facebook.com##section.Wdgt:nth-of-type(3)
+
+www.facebook.com##.announcement
+
+www.facebook.com##.announcement
+
+animevietsub.to##.announcement
+
+www.nettruyentv.com##[src*="//st.nettruyentv.com/data/sites/1/banner/win79.gif"]
+
+www.nettruyentv.com##div.container:nth-of-type(4) > div.text-center.mrt5.mrb5:nth-of-type(1) > [href*="https://url.rw/"] > .lazy
+
+www.nettruyentv.com##.reading > div.container > .row > div.mrt5.mrb5.text-center.col-sm-6
+
