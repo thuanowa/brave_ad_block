@@ -33,12 +33,12 @@ manhwatop.com##.c-modal_item > a.btn-active-modal
 ! 2022-11-25 https://truyenqqpro.com
 truyenqqpro.com##.left-banner
 
-! 2022-11-25 http://animevietsub.to
-animevietsub.to##.pc-catfixx
+! 2022-11-25 http://animevietsub.me
+animevietsub.me##.pc-catfixx
 ||ci3.googleusercontent.com/mZI_lfpGW9NbuQ4qnbnfClQu3lVKccG067BGTYb6YVzaddILwDKSZ4Y_NIHXlkusgYOOI7ZicXMxk_XnnJEIxp3ovzOULO4RRywdmUNq7TPXkyB0-ZNY7xOHmjohwg=s0$image
-animevietsub.to##section.Wdgt:nth-of-type(2)
-animevietsub.to##center > [href="https://fb.com/233536333844133"]
-animevietsub.to###showChonLoc
+animevietsub.me##section.Wdgt:nth-of-type(2)
+animevietsub.me##center > [href="https://fb.com/233536333844133"]
+animevietsub.me###showChonLoc
 
 ! 2022-11-25 https://motchill.tv
 motchill.tv###preload > div
@@ -77,7 +77,7 @@ www.facebook.com##.Module.Module-286 > .ModuleContent
 
 www.facebook.com##section.Wdgt:nth-of-type(3)
 
-animevietsub.to##section.Wdgt:nth-of-type(3)
+animevietsub.me##section.Wdgt:nth-of-type(3)
 
 www.facebook.com##section.Wdgt:nth-of-type(3)
 
@@ -85,7 +85,7 @@ www.facebook.com##.announcement
 
 www.facebook.com##.announcement
 
-animevietsub.to##.announcement
+animevietsub.me##.announcement
 
 www.nettruyentv.com##[src*="//st.nettruyentv.com/data/sites/1/banner/win79.gif"]
 
@@ -94,7 +94,7 @@ www.nettruyentv.com##div.container:nth-of-type(4) > div.text-center.mrt5.mrb5:nt
 www.nettruyentv.com##.reading > div.container > .row > div.mrt5.mrb5.text-center.col-sm-6
 
 
-animevietsub.to###watch-block > center
+animevietsub.me###watch-block > center
 
 www.facebook.com###watch-block > center
 
@@ -161,3 +161,19 @@ truyenqqpro.com##div#ad_info:nth-of-type(4) > .text_ads
 truyenqqpro.com##.chapter_control
 
 truyenqqpro.com##.alert.alert-info.alert-note
+
+animevietsub.me##.Ads.ad-center-header > div > center
+
+www.youtube.com##.Ads.ad-center-header > div > center
+
+www.facebook.com##.Ads.ad-center-header > div > center
+
+www.facebook.com##.Ads.ad-center-header > div > center
+
+www.facebook.com##.Ads.ad-center-header > div > center
+
+www.facebook.com##.Ads.ad-center-header > div > center
+
+www.facebook.com##.Ads.ad-center-header > div > center
+
+www.facebook.com##.Ads.ad-center-header > div > center
