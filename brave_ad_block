@@ -108,19 +108,19 @@ www.facebook.com###watch-block > center
 
 www.nettruyentv.com##.new-comments.Module.Module-180 > .ModuleContent > .box.darkBox
 
-www.nettruyenmin.com##.container.text-center.mrb5
+www.nettruyenup.com##.container.text-center.mrb5
 
-www.nettruyenmin.com###page_0
+www.nettruyenup.com###page_0
 
-www.nettruyenmin.com###chapterNav
-
-www.facebook.com##div.container:nth-of-type(4) > div.text-center.mrt5.mrb5:nth-of-type(1)
+www.nettruyenup.com###chapterNav
 
 www.facebook.com##div.container:nth-of-type(4) > div.text-center.mrt5.mrb5:nth-of-type(1)
 
 www.facebook.com##div.container:nth-of-type(4) > div.text-center.mrt5.mrb5:nth-of-type(1)
 
-www.nettruyenmin.com##div.container:nth-of-type(4) > div.text-center.mrt5.mrb5:nth-of-type(1)
+www.facebook.com##div.container:nth-of-type(4) > div.text-center.mrt5.mrb5:nth-of-type(1)
+
+www.nettruyenup.com##div.container:nth-of-type(4) > div.text-center.mrt5.mrb5:nth-of-type(1)
 
 www.facebook.com##div.container:nth-of-type(4) > div.text-center.mrt5.mrb5:nth-of-type(1)
 
@@ -128,7 +128,7 @@ www.facebook.com##div.mrt5.mrb5.text-center.col-sm-6:nth-of-type(2)
 
 www.facebook.com##div.mrt5.mrb5.text-center.col-sm-6:nth-of-type(2)
 
-www.nettruyenmin.com##div.mrt5.mrb5.text-center.col-sm-6:nth-of-type(2)
+www.nettruyenup.com##div.mrt5.mrb5.text-center.col-sm-6:nth-of-type(2)
 
 www.facebook.com##div.mrt5.mrb5.text-center.col-sm-6:nth-of-type(2)
 
@@ -140,7 +140,7 @@ www.facebook.com##div.mrt5.mrb5.text-center.col-sm-6:nth-of-type(1) > [href*="ht
 
 www.facebook.com##div.mrt5.mrb5.text-center.col-sm-6:nth-of-type(1) > [href*="https://url.rw/"] > .lazy
 
-www.nettruyenmin.com##div.mrt5.mrb5.text-center.col-sm-6:nth-of-type(1) > [href*="https://url.rw/"] > .lazy
+www.nettruyenup.com##div.mrt5.mrb5.text-center.col-sm-6:nth-of-type(1) > [href*="https://url.rw/"] > .lazy
 
 www.facebook.com##div.mrt5.mrb5.text-center.col-sm-6:nth-of-type(1) > [href*="https://url.rw/"] > .lazy
 
@@ -148,7 +148,7 @@ www.facebook.com##div.container:nth-of-type(5) > div.comment:nth-of-type(1)
 
 www.facebook.com##div.container:nth-of-type(5) > div.comment:nth-of-type(1)
 
-www.nettruyenmin.com##div.container:nth-of-type(5) > div.comment:nth-of-type(1)
+www.nettruyenup.com##div.container:nth-of-type(5) > div.comment:nth-of-type(1)
 
 www.facebook.com##div.container:nth-of-type(5) > div.comment:nth-of-type(1)
 
